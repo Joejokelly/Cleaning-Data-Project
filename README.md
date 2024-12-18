@@ -1,5 +1,5 @@
 # Week 4 project -  Getting and Cleaning Data in R
-Author -- Benedict Neo
+Author -- Joe O
 
 This is the final project from the Coursera course Getting and Cleaning Data by John Hopkins. 
 The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set.
